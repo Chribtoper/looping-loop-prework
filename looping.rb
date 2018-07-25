@@ -1,6 +1,6 @@
 def looping
   
-	10.times 
+	10.times  do
 	puts "I am a simple loop"
 end
 
