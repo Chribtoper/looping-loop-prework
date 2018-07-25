@@ -1,5 +1,3 @@
-def looping
-do loop
-	puts "I am a simple loop"
-end
+loop do
+  puts "I have found the Time Machine!"
 end
