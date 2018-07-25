@@ -1,6 +1,5 @@
 def looping
-  
-	10.times  do
+do loop
 	puts "I am a simple loop"
 end
 
